@@ -292,7 +292,7 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
             "resolutionType": 1,
             "startInfo": {
                 "scene": {
-                    "uid": "3305C56CKBF5BA44BFS8614EE4B277E49F6A",
+                    "uid": "39C3C73475D34443A21BDE45C7D12C061498",
                     "name": "Sample Scene"
                 }
             },
@@ -319,8 +319,8 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
             "useIntroScene": false,
             "introInfo": {
                 "scene": {
-                    "uid": "3305C56CKBF5BA44BFS8614EE4B277E49F6A",
-                    "name": "Sample Scene"
+                    "uid": "3EB0897BK4EAAA43A8SA91DEE65923801AB3",
+                    "name": "Chapter 1"
                 }
             },
             "textInputPages": [
@@ -413,5 +413,6 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
         "name",
         "type",
         "order"
-    ]
+    ],
+    "externalItems": []
 }

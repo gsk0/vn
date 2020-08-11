@@ -365,6 +365,7 @@ GS.dataCache['RESOURCES'] = {
             "Live2D/haru_01.model": ".zip",
             "Live2D/haru_02.model": ".zip",
             "Live2D/shizuku.model": ".zip",
+            "Live2D/RinaYunokimodel": ".zip",
             "Live2D/wanko.model": ".zip",
             "Movies/lrain.webmhd": [
                 ".webm"

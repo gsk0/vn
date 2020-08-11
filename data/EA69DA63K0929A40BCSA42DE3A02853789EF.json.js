@@ -10,5 +10,6 @@ GS.dataCache['EA69DA63K0929A40BCSA42DE3A02853789EF'] = {
     "summary": [
         "name",
         "type"
-    ]
+    ],
+    "externalItems": []
 }

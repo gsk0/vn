@@ -12,5 +12,6 @@ GS.dataCache['07DDA09123019333'] = {
         "name",
         "type",
         "defaultUid"
-    ]
+    ],
+    "externalItems": []
 }

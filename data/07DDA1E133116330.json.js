@@ -654,5 +654,6 @@ GS.dataCache['07DDA1E133116330'] = {
         "name",
         "type"
     ],
+    "externalItems": [],
     "needsMerge": true
 }

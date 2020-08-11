@@ -585,18 +585,6 @@ GS.dataCache['SUMMARIES'] = {
                 "type": "event_command"
             }
         },
-        "3166E1F8K57BCA4ABBS9469E64CAB2DD9D82": {
-            "items": {
-                "name": "German",
-                "type": "language_profile"
-            }
-        },
-        "884DBBAAKF5CBA4EA0SB9A3EBCCD6E75FCFA": {
-            "items": {
-                "name": "English Bundle",
-                "type": "language_bundle"
-            }
-        },
         "1460AF25KB022A432DSA370E68012CDC1B17": {
             "items": {
                 "name": "Scroll Background",
@@ -2600,28 +2588,28 @@ GS.dataCache['SUMMARIES'] = {
             "items": {
                 "name": "Haru1",
                 "type": "data_record",
-                "order": 2
+                "order": 3
             }
         },
         "BD57DD5D6E79124D94396CF100590D3A5FD4": {
             "items": {
                 "name": "Haru2",
                 "type": "data_record",
-                "order": 3
+                "order": 4
             }
         },
         "4A7D5EC17353564C3E39DA52EBDE615E4D0B": {
             "items": {
                 "name": "Shizuku",
                 "type": "data_record",
-                "order": 4
+                "order": 5
             }
         },
         "D817084774AB154CCE68B7B2587B0058EBFA": {
             "items": {
                 "name": "Wanko",
                 "type": "data_record",
-                "order": 5
+                "order": 6
             }
         },
         "3A78BF4E122004444629EDF41AD5ABD03B9C": {
@@ -3051,6 +3039,35 @@ GS.dataCache['SUMMARIES'] = {
                 "name": "Haru2 default",
                 "type": "data_record",
                 "order": 2
+            }
+        },
+        "9BB76C2D8823D242DE4AD3680BFBE1ED244C": {
+            "items": {
+                "name": "新章节",
+                "type": "vn.chapter",
+                "order": 2
+            }
+        },
+        "3F813E2715EBE34E631BA53069DE4A5627A1": {
+            "items": {
+                "name": "Rina Yunoki",
+                "type": "data_record",
+                "order": 2
+            }
+        },
+        "39C3C73475D34443A21BDE45C7D12C061498": {
+            "items": {
+                "name": "Start",
+                "type": "vn.scene",
+                "parentId": "3EB0897BK4EAAA43A8SA91DEE65923801AB3",
+                "chapterUid": "3EB0897BK4EAAA43A8SA91DEE65923801AB3",
+                "order": 1
+            }
+        },
+        "578D0DCE5A1C534F972BC9821247A8413960": {
+            "items": {
+                "name": "自定义文本",
+                "type": "custom_strings_bundle"
             }
         }
     }
